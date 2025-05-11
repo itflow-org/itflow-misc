@@ -1,5 +1,5 @@
 <?php
-# Tidying up old users (deleting)
+# Tidying up old forum users using the Flarum API (deleting)
 
 $dbhost = 'localhost';
 $dbusername = 'forum_db';
